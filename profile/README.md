@@ -95,7 +95,8 @@ MCP server providing unified AI access to infrastructure:
 **Status:** 🚀 Ready for Deployment  
 **Tech:** Python, FastMCP, Kubernetes, UV
 
-
+</td>
+<td width="50%" valign="top">
 ---
 
 ## 🧩 The Cognitive Stack
