@@ -29,17 +29,18 @@ We're building AI-native systems that blend:
 > *"Infrastructure is not just automation — it's cognition."*
 
 ---
-
 ## 🏗️ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [ai-infra-hostinger](https://github.com/mindset-dev/ai-infra-hostinger)
+<h3>🧠 <a href="https://github.com/mindset-dev/ai-infra-hostinger">ai-infra-hostinger</a></h3>
+
 **Meta-Repository | Architecture Documentation**
 
 The blueprint of our cognitive infrastructure. Comprehensive documentation covering:
+
 - System architecture & network topology
 - Multi-project Docker orchestration
 - Kubernetes KIND cluster setup
@@ -51,10 +52,12 @@ The blueprint of our cognitive infrastructure. Comprehensive documentation cover
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [local-ai-packaged](https://github.com/mindset-dev/local-ai-packaged)
+<h3>🔌 <a href="https://github.com/mindset-dev/local-ai-packaged">local-ai-packaged</a></h3>
+
 **Full-Stack AI Deployment | Docker Compose**
 
 Heavily customized fork providing complete self-hosted AI stack:
+
 - Flowise + LangChain orchestration
 - Open WebUI for LLM interaction
 - Supabase + Qdrant + Neo4j data layers
@@ -70,10 +73,12 @@ Heavily customized fork providing complete self-hosted AI stack:
 <tr>
 <td width="50%" valign="top">
 
-### 💬 [maui (Mental Health App)](https://github.com/mindset-dev/maui)
+<h3>💬 <a href="https://github.com/mindset-dev/maui">maui (Mental Health App)</a></h3>
+
 **AI-Powered Mental Wellness Platform**
 
 Multi-agent cognitive automation for mental health support.
+
 - FastAPI backend with AI reasoning
 - Integrated with localai cognitive layer
 - Vector memory for contextual journaling
@@ -83,11 +88,13 @@ Multi-agent cognitive automation for mental health support.
 
 </td>
 <td width="50%" valign="top">
-    
-### 🔌 [bigtorig-mcp-hub](https://github.com/mindset-dev/bigtorig-mcp-hub)
+
+<h3>🔌 <a href="https://github.com/mindset-dev/bigtorig-mcp-hub">bigtorig-mcp-hub</a></h3>
+
 **Model Context Protocol Server**
 
 MCP server providing unified AI access to infrastructure:
+
 - FastMCP-based server on KIND cluster
 - Postgres, Qdrant, Neo4j integration
 - Deployed at `mcp.bigtorig.com`
@@ -96,8 +103,11 @@ MCP server providing unified AI access to infrastructure:
 **Tech:** Python, FastMCP, Kubernetes, UV
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
 ---
+
 
 ## 🧩 The Cognitive Stack
 
