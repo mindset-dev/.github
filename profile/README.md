@@ -83,21 +83,18 @@ Multi-agent cognitive automation for mental health support.
 
 </td>
 <td width="50%" valign="top">
+    
+### 🔌 [bigtorig-mcp-hub](https://github.com/mindset-dev/bigtorig-mcp-hub)
+**Model Context Protocol Server**
 
-### 🚀 [fastapi](https://github.com/mindset-dev/fastapi)
-**API Development & Microservices**
+MCP server providing unified AI access to infrastructure:
+- FastMCP-based server on KIND cluster
+- Postgres, Qdrant, Neo4j integration
+- Deployed at `mcp.bigtorig.com`
 
-Modular FastAPI projects showcasing:
-- Clean architecture patterns
-- AI agent integration endpoints
-- Production-ready API design
+**Status:** 🚀 Ready for Deployment  
+**Tech:** Python, FastMCP, Kubernetes, UV
 
-**Status:** 🔧 Work in Progress  
-**Tech:** Python, FastAPI, Pydantic, UV
-
-</td>
-</tr>
-</table>
 
 ---
 
